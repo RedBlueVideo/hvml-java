@@ -1,0 +1,3 @@
+[submodule "dependencies/j2v8"]
+	path = dependencies/j2v8
+	url = https://github.com/eclipsesource/J2V8.git

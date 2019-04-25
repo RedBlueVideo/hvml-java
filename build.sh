@@ -1,0 +1,1 @@
+javac -cp ./dependencies/j2v8/build.out/j2v8_macos_x86_64-5.0.102.jar -d ./build ./src/HVML.java
